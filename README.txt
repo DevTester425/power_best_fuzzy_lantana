@@ -1,6 +1,7 @@
 REMIX DEFAULT WORKSPACE
 
 ## Commit from GITHUB 
+## Commit from REMIX 
 
 Remix default workspace is present when:
 i. Remix loads for the very first time 
